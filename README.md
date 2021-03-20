@@ -16,3 +16,5 @@ E.g. you can use one channel for landing lights as permanent, another channel fo
 
 If you don't have any free RC channel you can also connect a button to the RC input instead of an RC receiver.
 With this you can switch through activating all 4 output channels subsequently.
+
+![RClights4C](https://user-images.githubusercontent.com/76703830/111869337-3cde8500-897f-11eb-9e94-9c0b82663b3a.gif)
